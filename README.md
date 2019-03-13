@@ -7,8 +7,17 @@ Speakers for our [International Women's Day celebration](https://www.meetup.com/
 
 **Lindsay Fox** is the VP of Sales & Brand Strategy at LookFar Labs and helped to create the brand, culture, sales and marketing strategies, and business processes that are the foundation of LookFar Labs. She is responsible for identifying clients, defining strategies to reach them, and determining the right services to sell to them. Having a background in digital media management helped her transition to software development, while having co-founded a digital dailies lab and directed and produced a documentary which fueled my passion for working with entrepreneurs. She moved from Los Angeles to New Orleans a little over five years ago and is thrilled to be a contributor of the burgeoning tech and startup community here. Find Lindsay on [LinkedIn](https://www.linkedin.com/in/lindsay-fox-5945426/) and [Twitter](https://twitter.com/lfox3).
 
+**Alsie Dunbar**
+
+## How UX Affects Reality
+
+<img src="./headshots/danielle_matherne.jpg" alt="Danielle Matherne" width="300px">
+
+**Danielle Matherne** first found her way into the tech world at 10 years old when she accidentally purchased an HTML book. After honing her creative design and development capabilities in advertising, Danielle now serves as Director of Digital at FACTOR 10, a tech-forward, holistic business design firm. She enjoys talking nerdy about strategy, design, and code; bridging the communication gap between visual artists and techies; and sipping Irish whiskey, neat.
 
 ## Actions on Google Workshop &amp; Code Lab
+
+**Olivia Sabo-Rush**
 
 ## #IAmRemarkable Workshop
 
@@ -33,3 +42,5 @@ As designer and developer of 10+ years, **Lynsey Gwin** is a problem-solver who 
 <img src="./headshots/katie_patch.jpg" alt="Katie Patch Harris" width="300px">
 
 **Katie Patch Harris** is a software engineer at CotingaSoft, a local software engineering company. She specializes in both web and mobile development, with a particular passion for iOS. Prior to CotingaSoft Katie had a career in the arts with experience in designing and installing store displays, gallery direction, and as an assistant artist. She has a BFA in illustration from Rhode Island School of Design.
+
+**Elan Jones**
