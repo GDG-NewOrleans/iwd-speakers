@@ -3,11 +3,17 @@ Speakers for our [International Women's Day celebration](https://www.meetup.com/
 
 ## Leadership Panel
 
+**Adele Tiblier**
+
 <img src="./headshots/lindsay_fox.jpg" alt="Lindsay Fox" width="300px">
 
-**Lindsay Fox** is the VP of Sales & Brand Strategy at LookFar Labs and helped to create the brand, culture, sales and marketing strategies, and business processes that are the foundation of LookFar Labs. She is responsible for identifying clients, defining strategies to reach them, and determining the right services to sell to them. Having a background in digital media management helped her transition to software development, while having co-founded a digital dailies lab and directed and produced a documentary which fueled my passion for working with entrepreneurs. She moved from Los Angeles to New Orleans a little over five years ago and is thrilled to be a contributor of the burgeoning tech and startup community here. Find Lindsay on [LinkedIn](https://www.linkedin.com/in/lindsay-fox-5945426/) and [Twitter](https://twitter.com/lfox3).
+**Lindsay Fox** is the VP of Sales & Brand Strategy at LookFar Labs, where she helped to create the brand, culture, sales and marketing strategies, and business processes that are the foundation of LookFar Labs. She is responsible for identifying clients, defining strategies to reach them, and determining the right services to sell to them.
+
+Having a background in digital media management helped her transition to software development, while having co-founded a digital dailies lab and directed and produced a documentary fueled her passion for working with entrepreneurs. She moved from Los Angeles to New Orleans a little over five years ago and is thrilled to be a contributor of the burgeoning tech and startup community here. Find Lindsay on [LinkedIn](https://www.linkedin.com/in/lindsay-fox-5945426/) and [Twitter](https://twitter.com/lfox3).
 
 **Alsie Dunbar**
+
+**Katie Delgado**
 
 ## How UX Affects Reality
 
