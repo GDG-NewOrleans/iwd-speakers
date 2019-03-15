@@ -29,9 +29,13 @@ With 19 years heavily vested in the chemical industry, **Alsie Dunbar** used her
 
 ## Actions on Google Workshop &amp; Code Lab
 
-**Olivia Sabo-Rush**
+<img src="./headshots/olivia-sabo-rush.jpg" alt="Olivia Sabo-Rush" width="300px">
 
-## #IAmRemarkable Workshop
+**Olivia Sabo-Rush**  started teaching herself web design over ten years ago, working late into the night to learn more and perfect her new creations. After pursuing a dance career that led her to perform in Russia, South Korea, and Germany, she finally followed her long sleeping passion for engineering. Liv brings the artistry she found dancing to her software development, creating beauty both on the screen and in her code. Even now she still finds herself working through the night, dancing across her keyboard.
+
+Liv received her Bachelor of Fine Arts in Dance from California Institute of the Arts, and is a graduate of Operation Spark's Immersion program. She is currently a senior developer at iSeatz. Outside work Liv loves to attend ballet or contemporary dance classes, bike, or work on personal software / design projects.
+
+## #IamRemarkable Workshop
 
 <img src="./headshots/sia_karamalegos.jpg" alt="Sia Karamalegos" width="300px">
 
@@ -55,4 +59,6 @@ As designer and developer of 10+ years, **Lynsey Gwin** is a problem-solver who 
 
 **Katie Patch Harris** is a software engineer at CotingaSoft, a local software engineering company. She specializes in both web and mobile development, with a particular passion for iOS. Prior to CotingaSoft Katie had a career in the arts with experience in designing and installing store displays, gallery direction, and as an assistant artist. She has a BFA in illustration from Rhode Island School of Design.
 
-**Elan Jones**
+<img src="./headshots/elan_jones.jpeg" alt="Élan Jones" width="300px">
+
+**Élan Jones** is the executive director at NOLA_CODE and has been involved in all aspects of running NOLA_CODE, from securing funding to teaching classes and leading workshops. Ms. Jones is passionate about NOLA_CODE’s mission goals, as they align perfectly with her own efforts in community organizing. Through outreach, she has helped NOLA_CODE to team up with schools and organizations across the New Orleans area. In her free time, Élan likes to practice aerial hoop and fabrics.
