@@ -13,9 +13,9 @@ Direct links:
 
 ### Adele Tiblier, panel facilitator
 
-<img src="./headshots/adele_tiblier.jpeg" alt="Adele Tiblier" width="300px">
+<img src="./headshots/adele_tiblier.jpg" alt="Adele Tiblier" width="300px">
 
-**Adele Tiblier** is the Chief Marketing Officer of Story Block Media and a New Orleans native. She is a veteran marketer living in a world of acronyms (SEO, SEM, SMO, CRM, ROI, CLV, ROAS, etc). Adele brings an extensive background in search engine optimization, online marketing and promotion from over a decade of experience in the Internet industry. Her knowledge and expertise of online marketing has served the tourism, technology, retail and nonprofit sectors, among others. Find Adele on [LinkedIn](https://www.linkedin.com/in/adeletiblier/) and [Twitter](https://twitter.com/adeletiblier?lang=en).
+**Adele Tiblier** is the Chief Marketing Officer for Story Block. She has been in the digital marketing space for over 20 years, having served as the VP of Marketing for online 3D graphics giant TurboSquid, as the Director of Marketing for construction SaaS (Software as a Service) startup zlien, and as the Director of Interactive Strategy (and employee number one) at FSC Interactive, where she served client accounts nationwide, spanning the tourism, technology, retail and non-profit industries. Adele has presented at conferences across the country. She is a certified Google Small Business trainer, and holds a number of marketing, sales and software certifications. She is a longtime champion for the New Orleans tech community. She has been nominated and received a number of local, regional and national awards in recognition for her professional accomplishments as well as her community involvement. Recently she was awarded the 2017 Ada Lovelace Award for Digital Marketing. Adele also sits on the board of directors for KidsmART, a local arts education organization with a focus on arts education into existing academic curriculum. Find Adele on [LinkedIn](https://www.linkedin.com/in/adeletiblier/) and [Twitter](https://twitter.com/adeletiblier).
 
 ### Lindsay Fox, panelist
 
