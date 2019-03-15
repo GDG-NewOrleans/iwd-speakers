@@ -53,7 +53,7 @@ With 19 years heavily vested in the chemical industry, **Alsie Dunbar** used her
 
 **Olivia Sabo-Rush**  started teaching herself web design over ten years ago, working late into the night to learn more and perfect her new creations. After pursuing a dance career that led her to perform in Russia, South Korea, and Germany, she finally followed her long sleeping passion for engineering. Liv brings the artistry she found dancing to her software development, creating beauty both on the screen and in her code. Even now she still finds herself working through the night, dancing across her keyboard.
 
-Liv received her Bachelor of Fine Arts in Dance from California Institute of the Arts, and is a graduate of Operation Spark's Immersion program. She is currently a senior developer at iSeatz. Outside work Liv loves to attend ballet or contemporary dance classes, bike, or work on personal software / design projects.
+Liv received her Bachelor of Fine Arts in Dance from California Institute of the Arts, and is a graduate of Operation Spark's Immersion program. She is currently a senior developer at iSeatz. Outside work Liv loves to attend ballet or contemporary dance classes, bike, or work on personal software / design projects. Be sure to check out her [website](http://pafiu.me)!
 
 ## #IamRemarkable Workshop
 
