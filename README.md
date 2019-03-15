@@ -3,7 +3,9 @@ Speakers for our [International Women's Day celebration](https://www.meetup.com/
 
 ## Leadership Panel
 
-**Adele Tiblier**
+<img src="./headshots/adele_tiblier.jpeg" alt="Adele Tiblier" width="300px">
+
+**Adele Tiblier** is the Chief Marketing Officer of Story Block Media and a New Orleans native. She is a veteran marketer living in a world of acronyms (SEO, SEM, SMO, CRM, ROI, CLV, ROAS, etc). Adele brings an extensive background in search engine optimization, online marketing and promotion from over a decade of experience in the Internet industry. Her knowledge and expertise of online marketing has served the tourism, technology, retail and nonprofit sectors, among others. Find Adele on [LinkedIn](https://www.linkedin.com/in/adeletiblier/) and [Twitter](https://twitter.com/adeletiblier?lang=en).
 
 <img src="./headshots/lindsay_fox.jpg" alt="Lindsay Fox" width="300px">
 
@@ -11,11 +13,15 @@ Speakers for our [International Women's Day celebration](https://www.meetup.com/
 
 Having a background in digital media management helped her transition to software development, while having co-founded a digital dailies lab and directed and produced a documentary fueled her passion for working with entrepreneurs. She moved from Los Angeles to New Orleans a little over five years ago and is thrilled to be a contributor of the burgeoning tech and startup community here. Find Lindsay on [LinkedIn](https://www.linkedin.com/in/lindsay-fox-5945426/) and [Twitter](https://twitter.com/lfox3).
 
-**Alsie Dunbar**
+<img src="./headshots/alsie_dunbar.jpg" alt="Alsie Dunbar" width="300px">
 
-**Katie Delgado**
+With 19 years heavily vested in the chemical industry, **Alsie Dunbar** used her personal experience from her professional career as a senior scientist and process engineer as the precept for the blueprint in forming The STEMS GEMS Mentoring Project which highlights Girls Excelling in Math and Science. Dunbar formed STEM GEMS in 2013 and has mentored over 650 girls in conjunction with the Ascension Parish School Board successfully with six participants receiving Student of the Year distinctions. Through the STEM GEMS Mentoring Project, Dunbar promotes the interest of Girls Excelling in Math and Science through mentoring and encouraging them to pursue careers and advanced degrees in STEM majors where women and minorities are underrepresented.
 
-## How UX Affects Reality
+<!-- <img src="./headshots/.jpg" alt="Katie Delgado" width="300px"> -->
+
+**Katie Delgado** began her professional career as a UX’er but realized she was much better at code. She worked for ten years as a front-end developer before being promoted to management within a year of joining GE due to her balance of soft and hard skills. The following year, she went from technical anchor for 1 team, to manager in charge of hiring two new teams, to Sr Manager over the most successful product within GE overseeing 8 teams and their managers.
+
+## Pushing UX Beyond Pixels: How User Experience Shapes Reality
 
 <img src="./headshots/danielle_matherne.jpg" alt="Danielle Matherne" width="300px">
 
