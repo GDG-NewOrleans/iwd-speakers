@@ -1,5 +1,13 @@
 # IWD New Orleans 2019 Speakers
-Speakers for our [International Women's Day celebration](https://www.meetup.com/gdg-new-orleans/events/258679259/) presented by Women Techmakers and powered by GDG New Orleans
+Learn about the speakers for the [International Women's Day celebration](https://www.meetup.com/gdg-new-orleans/events/258679259/) presented by Women Techmakers and powered by GDG New Orleans.
+
+Direct links:
+
+- [Leadership Panel](#leadership-panel): [Adele Tiblier (facilitator)](#adele-tiblier-panel-facilitator), [Lindsay Fox](#lindsay-fox-panelist), [Alsie Dunbar](#alsie-dunbar-panelist), [Katie Delgado](#katie-delgado-panelist)
+- [Pushing UX Beyond Pixels: How User Experience Shapes Reality](#pushing-ux-beyond-pixels-how-user-experience-shapes-reality): [Danielle Matherne](danielle-matherne-speaker)
+- [Actions on Google Workshop &amp; Code Lab](#actions-on-google-workshop--code-lab): [Olivia Sabo-Rush](#olivia-sabo-rush-workshop-leader)
+- [#IamRemarkable Workshop](#iamremarkable-workshop): [Sia Karamalegos](#sia-karamalegos-workshop-leader)
+- [Mentoring and Support Panel](#mentoring-and-support-panel): [Glynnis Ritchie (facilitator)](#glynnis-ritchie-panel-facilitator), [Carla Buckner](#carla-buckner-panelist), [Lynsey Gwin](#lynsey-gwin-panelist), [Katie Patch Harris](#katie-patch-harris-panelist), [Élan Jones](#élan-jones-panelist)
 
 ## Leadership Panel
 
@@ -75,7 +83,7 @@ Liv received her Bachelor of Fine Arts in Dance from California Institute of the
 
 As designer and developer of 10+ years, **Lynsey Gwin** is a problem-solver who executes with efficiency and empathy. She serves as a consultant to the client and advocate for the consumer. Her professional passion is working with clients to discover the best solution for their needs and ushering them through the execution of their direction. Find Lynsey on [Twitter](https://twitter.com/lynseydesign).
 
-### Katie Patch, panelist
+### Katie Patch Harris, panelist
 
 <img src="./headshots/katie_patch.jpg" alt="Katie Patch Harris" width="300px">
 
