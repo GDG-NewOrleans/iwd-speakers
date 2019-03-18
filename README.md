@@ -81,7 +81,7 @@ Liv received her Bachelor of Fine Arts in Dance from California Institute of the
 
 <img src="./headshots/lynsey_gwin.jpg" alt="Lynsey Gwin" width="300px">
 
-As designer and developer of 10+ years, **Lynsey Gwin** is a problem-solver who executes with efficiency and empathy. She serves as a consultant to the client and advocate for the consumer. Her professional passion is working with clients to discover the best solution for their needs and ushering them through the execution of their direction. Find Lynsey on [Twitter](https://twitter.com/lynseydesign).
+**Lynsey Gwin** is a self-employed UI Designer and Front-end Developer. With 12+ years of experience, Lynsey is a problem-solver who executes with efficiency and empathy. She serves as a consultant to the client and advocate for the consumer. Her professional passion is working with clients to discover the best solution for their needs and ushering them through the execution of their direction. Lynsey is also a co-organizer of Activate Conference & Hackathon in Baton Rouge as an effort to bring students and professionals together to build the local tech community. Find Lynsey on [Twitter](https://twitter.com/lynseydesign) and [LinkedIn](https://www.linkedin.com/in/lynseygwin/).
 
 ### Katie Patch Harris, panelist
 
