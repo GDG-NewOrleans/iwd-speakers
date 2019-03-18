@@ -69,7 +69,7 @@ Liv received her Bachelor of Fine Arts in Dance from California Institute of the
 
 <img src="./headshots/glynnis_ritchie.jpg" alt="Glynnis Ritchie" width="300px">
 
-**Glynnis Ritchie** has over seven years of professional experience in interface design, user research, and creating consistent, accessible user experiences. Previously, she led design on a component library and design system for internal tools at Rackspace. Glynnis has served on small teams at start-ups and non-profits, and on large, enterprise teams. She's passionate about creative collaboration and the spaces where elegant code and delightful experiences overlap. When she's not working, Glynnis cultivates analog hobbies away from the screen. People also know her know as a calligrapher, tea connoisseur, and ceramicist. Find Glynnis on [Twitter](https://twitter.com/glynnisritchie)
+**Glynnis Ritchie** has over seven years of professional experience in interface design, user research, and creating consistent, accessible user experiences. Previously, she led design on a component library and design system for internal tools at Rackspace. Glynnis has served on small teams at start-ups and non-profits, and on large, enterprise teams. She's passionate about creative collaboration and the spaces where elegant code and delightful experiences overlap. When she's not working, Glynnis cultivates analog hobbies away from the screen. People also know her know as a calligrapher, tea connoisseur, and ceramicist. Find Glynnis on [Twitter](https://twitter.com/glynnisritchie).
 
 ### Carla Buckner, panelist
 
