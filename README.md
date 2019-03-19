@@ -6,7 +6,7 @@ Direct links:
 - [Leadership Panel](#leadership-panel): [Adele Tiblier (facilitator)](#adele-tiblier-panel-facilitator), [Lindsay Fox](#lindsay-fox-panelist), [Alsie Dunbar](#alsie-dunbar-panelist), [Katie Delgado](#katie-delgado-panelist)
 - [Pushing UX Beyond Pixels: How User Experience Shapes Reality](#pushing-ux-beyond-pixels-how-user-experience-shapes-reality): [Danielle Matherne](danielle-matherne-speaker)
 - [Actions on Google Workshop &amp; Code Lab](#actions-on-google-workshop--code-lab): [Olivia Sabo-Rush](#olivia-sabo-rush-workshop-leader)
-- [Why Web Performance Matters &amp; #IamRemarkable Workshop](#why-web-performance-matters-iamremarkable-workshop): [Sia Karamalegos](#sia-karamalegos-workshop-leader)
+- [Why Web Performance Matters &amp; #IamRemarkable Workshop](#why-web-performance-matters--iamremarkable-workshop): [Sia Karamalegos](#sia-karamalegos-workshop-leader)
 - [Mentoring and Support Panel](#mentoring-and-support-panel): [Glynnis Ritchie (facilitator)](#glynnis-ritchie-panel-facilitator), [Carla Buckner](#carla-buckner-panelist), [Lynsey Gwin](#lynsey-gwin-panelist), [Katie Patch Harris](#katie-patch-harris-panelist), [Élan Jones](#élan-jones-panelist)
 
 ## Leadership Panel
