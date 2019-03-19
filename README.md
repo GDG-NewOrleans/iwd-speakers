@@ -6,7 +6,7 @@ Direct links:
 - [Leadership Panel](#leadership-panel): [Adele Tiblier (facilitator)](#adele-tiblier-panel-facilitator), [Lindsay Fox](#lindsay-fox-panelist), [Alsie Dunbar](#alsie-dunbar-panelist), [Katie Delgado](#katie-delgado-panelist)
 - [Pushing UX Beyond Pixels: How User Experience Shapes Reality](#pushing-ux-beyond-pixels-how-user-experience-shapes-reality): [Danielle Matherne](danielle-matherne-speaker)
 - [Actions on Google Workshop &amp; Code Lab](#actions-on-google-workshop--code-lab): [Olivia Sabo-Rush](#olivia-sabo-rush-workshop-leader)
-- [#IamRemarkable Workshop](#iamremarkable-workshop): [Sia Karamalegos](#sia-karamalegos-workshop-leader)
+- [Why Web Performance Matters &amp; #IamRemarkable Workshop](#why-web-performance-matters-iamremarkable-workshop): [Sia Karamalegos](#sia-karamalegos-workshop-leader)
 - [Mentoring and Support Panel](#mentoring-and-support-panel): [Glynnis Ritchie (facilitator)](#glynnis-ritchie-panel-facilitator), [Carla Buckner](#carla-buckner-panelist), [Lynsey Gwin](#lynsey-gwin-panelist), [Katie Patch Harris](#katie-patch-harris-panelist), [Élan Jones](#élan-jones-panelist)
 
 ## Leadership Panel
@@ -33,7 +33,7 @@ With 19 years heavily vested in the chemical industry, **Alsie Dunbar** used her
 
 ### Katie Delgado, panelist
 
-<!-- <img src="./headshots/.jpg" alt="Katie Delgado" width="300px"> -->
+<img src="./headshots/delgado_katie.jpg" alt="Katie Delgado" width="300px">
 
 **Katie Delgado** began her professional career as a UX’er but realized she was much better at code. She worked for ten years as a front-end developer before being promoted to management within a year of joining GE due to her balance of soft and hard skills. The following year, she went from technical anchor for 1 team, to manager in charge of hiring two new teams, to Sr Manager over the most successful product within GE overseeing 8 teams and their managers.
 
@@ -45,6 +45,14 @@ With 19 years heavily vested in the chemical industry, **Alsie Dunbar** used her
 
 **Danielle Matherne** first found her way into the tech world at 10 years old when she accidentally purchased an HTML book. After honing her creative design and development capabilities in advertising, Danielle now serves as Director of Digital at FACTOR 10, a tech-forward, holistic business design firm. She enjoys talking nerdy about strategy, design, and code; bridging the communication gap between visual artists and techies; and sipping Irish whiskey, neat.
 
+## Why Web Performance Matters &amp; #IamRemarkable Workshop
+
+### Sia Karamalegos, workshop leader
+
+<img src="./headshots/sia_karamalegos.jpg" alt="Sia Karamalegos" width="300px">
+
+**Sia Karamalegos** is a developer, international conference speaker, and writer. She is a Google Developer Expert in Web Technologies and a Women Techmakers ambassador. She co-organizes #FrontEndParty, GDG New Orleans, and NOLA Hack Night in the New Orleans area. She is the founder and lead developer for Clio + Calliope Web Development and was recognized in the Silicon Bayou 100, the 100 most influential and active people in tech and entrepreneurship in Louisiana. When she's not coding, speaking, or consulting, Sia likes to design crochet patterns and dabble in charcoal figure drawing. She's also an avid endurance athlete. Find Sia on [her website](https://siakaramalegos.github.io/), [Twitter](https://twitter.com/thegreengreek), [Medium](https://medium.com/@thegreengreek), and [LinkedIn](https://www.linkedin.com/in/karamalegos).
+
 ## Actions on Google Workshop &amp; Code Lab
 
 ### Olivia Sabo-Rush, workshop leader
@@ -54,14 +62,6 @@ With 19 years heavily vested in the chemical industry, **Alsie Dunbar** used her
 **Olivia Sabo-Rush**  started teaching herself web design over ten years ago, working late into the night to learn more and perfect her new creations. After pursuing a dance career that led her to perform in Russia, South Korea, and Germany, she finally followed her long sleeping passion for engineering. Liv brings the artistry she found dancing to her software development, creating beauty both on the screen and in her code. Even now she still finds herself working through the night, dancing across her keyboard.
 
 Liv received her Bachelor of Fine Arts in Dance from California Institute of the Arts, and is a graduate of Operation Spark's Immersion program. She is currently a senior developer at iSeatz. Outside work Liv loves to attend ballet or contemporary dance classes, bike, or work on personal software / design projects. Be sure to check out her [website](http://pafiu.me)!
-
-## #IamRemarkable Workshop
-
-### Sia Karamalegos, workshop leader
-
-<img src="./headshots/sia_karamalegos.jpg" alt="Sia Karamalegos" width="300px">
-
-**Sia Karamalegos** is a developer, international conference speaker, and writer. She is a Google Developer Expert in Web Technologies and a Women Techmakers ambassador. She co-organizes #FrontEndParty, GDG New Orleans, and NOLA Hack Night in the New Orleans area. She is the founder and lead developer for Clio + Calliope Web Development and was recognized in the Silicon Bayou 100, the 100 most influential and active people in tech and entrepreneurship in Louisiana. When she's not coding, speaking, or consulting, Sia likes to design crochet patterns and dabble in charcoal figure drawing. She's also an avid endurance athlete. Find Sia on [her website](https://siakaramalegos.github.io/), [Twitter](https://twitter.com/thegreengreek), [Medium](https://medium.com/@thegreengreek), and [LinkedIn](https://www.linkedin.com/in/karamalegos).
 
 ## Mentoring and Support Panel
 
