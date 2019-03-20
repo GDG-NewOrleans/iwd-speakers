@@ -21,9 +21,7 @@ Direct links:
 
 <img src="./headshots/lindsay_fox.jpg" alt="Lindsay Fox" width="300px">
 
-**Lindsay Fox** is the VP of Sales & Brand Strategy at LookFar Labs, where she helped to create the brand, culture, sales and marketing strategies, and business processes that are the foundation of LookFar Labs. She is responsible for identifying clients, defining strategies to reach them, and determining the right services to sell to them.
-
-Having a background in digital media management helped her transition to software development, while having co-founded a digital dailies lab and directed and produced a documentary fueled her passion for working with entrepreneurs. She moved from Los Angeles to New Orleans a little over five years ago and is thrilled to be a contributor of the burgeoning tech and startup community here. Find Lindsay on [LinkedIn](https://www.linkedin.com/in/lindsay-fox-5945426/) and [Twitter](https://twitter.com/lfox3).
+**Lindsay Fox** is a leader and a creator. Over the past 5 years, she built the brand, developed the sales & marketing strategies, and spurred many of the business processes of LookFar. After the recent split of the company, she has continued as VP of Sales & Brand Strategy for the LookFar Labs side of the brand. She is responsible for identifying clients, defining strategies to reach them, and then determining the right services to sell to them. Lindsay is passionate about being a woman in technology and has spearheaded the Ada Lovelace Awards, an event recognizing the accomplishments of women in tech across the Gulf South of the U.S., since its inception in 2015. Prior to LookFar, Lindsay was a co-founder of a digital dailies lab in Hollywood, and she directed and produced a documentary called "Swing Low". A little over five years ago, she moved from Los Angeles to New Orleans, where she is thrilled to be a contributor of the burgeoning tech and startup community. Find Lindsay on [LinkedIn](https://www.linkedin.com/in/lindsay-fox-5945426/) and [Twitter](https://twitter.com/lfox3).
 
 ### Alsie Dunbar, panelist
 
